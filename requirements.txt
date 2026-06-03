@@ -1,0 +1,3 @@
+# Ce projet n'utilise que la bibliothèque standard de Python (3.10+).
+# Tkinter est inclus avec Python sur Windows et macOS.
+# Aucune dépendance externe n'est nécessaire.
