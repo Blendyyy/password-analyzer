@@ -112,14 +112,6 @@ password-analyzer/
 python -m unittest test_analyzer -v
 ```
 
----
-
-## Avertissement
-
-Ce projet est conçu à des fins **éducatives** et pour aider à évaluer ses **propres** mots de passe. Ne l'utilisez jamais pour tester ou attaquer des comptes qui ne vous appartiennent pas. Les estimations de temps de crack sont des ordres de grandeur indicatifs, pas des garanties.
-
----
-
 ## Licence
 
 MIT — voir [LICENSE](LICENSE).
